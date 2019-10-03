@@ -1,0 +1,2 @@
+# Lecture-Notes-Generator
+Making lecture notes while listening, absorbing and understanding the content all at the same time is a very tedious task and we tend to miss out on something or the other. This problem can be solved  by virtue of deep learning and NLP which can handle one bit of making a meaningful summary of the full lecture and on the other side you can spend all your attention on understanding the concept going on. This is not just limited to class lectures but can be extended to summarizing speeches and other seminar briefings as well.
