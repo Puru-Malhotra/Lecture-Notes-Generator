@@ -1,0 +1,9 @@
+import speech_recognitioin as sr
+r = sr.Recognizer()
+with sr.Microphone() as source:
+    audio = r.listen(source)
+try:
+   s = r.recognize_google(audio)
+except:
+       pass
+       
